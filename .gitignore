@@ -1,0 +1,15 @@
+# Files               
+*.fig                
+*.sketch             
+*.xd                 
+                        
+.DS_Store            
+.prettierignore      
+                     
+                     
+**/package-lock.json 
+**/style-guide.md    
+                     
+# Folders            
+design               
+node_modules         

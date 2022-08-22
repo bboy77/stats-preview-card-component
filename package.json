@@ -1,0 +1,1 @@
+{"name":"stats-preview-card-component","version":"1.0.0","description":"Frontend Mentor - ","scripts":{"dev":"vite","build":"vite build","preview":"vite preview"},"keywords":[],"author":"Andrew E. Bish","license":"ISC","devDependencies":{"bootstrap":"^5.2.0","gulp":"^4.0.2","gulp-sass":"^5.1.0","sass":"^1.54.4","vite":"^3.0.8"}}
