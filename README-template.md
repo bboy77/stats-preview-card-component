@@ -23,7 +23,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ![](./images/screeshot-mobile.png)
 
-
+- Desktop
 
 
 
