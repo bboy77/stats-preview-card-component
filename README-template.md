@@ -21,7 +21,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 - Mobile
 
-![](./images/screenshot-mobile.png)
+![](./images/screeshot-mobile.png)
 
 
 
